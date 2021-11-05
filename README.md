@@ -14,7 +14,7 @@ Cada ciclo é registrado no Local Storage e pode ser resetado pelo usuário.
 ---
 <div align="center">
 <br>
-<strong>Acesse o projeto aqui</strong> ➡️ https://pomodoro.vercel.app/
+<strong>Acesse o projeto aqui</strong> ➡️ https://pomodoro-devcamila.vercel.app/
 <br>
 <br>
 
